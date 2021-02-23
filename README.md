@@ -17,3 +17,7 @@ Mit der Mitgliedschaft ist auch der Zugriff auf
 verbunden.
 
 Darüber hinaus gibt es für REDCap Admins mit Konto beim [REDCap Consortium](https://community.projectredcap.org/index.html) einen [deutschsprachigen Bereich](https://redcap.link/GUG).
+
+## GitHub Netiquette
+
+Bitte dem Benutzerprofil hier auf GitHub einen echten Namen beistellen. 
