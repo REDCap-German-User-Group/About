@@ -3,7 +3,7 @@
 
 
 ## Kontaktaufnahme mit dem Organisationsteam
-Bitte beutzen Sie das Kontatkformular: Link folgt
+Bitte benutzen Sie das Kontatkformular: Link folgt
 
 
 ## Mitgliedschaft bei der REDCap German User Group
